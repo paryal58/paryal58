@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi 👋 My name is Prasanga Aryal
+===============================
 
-<!--
-**paryal58/paryal58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Student
+-------------------------------
 
-Here are some ideas to get you started:
+* 🌍  Lexington, Kentucky
+* ✉️  [prasangaaryal58@gmail.com](mailto:prasangaaryal58@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Skills
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=python,c,c++,java,javascript,r,sql,html,css,js,react,nodejs,express,git" />
+</p>
 -->
