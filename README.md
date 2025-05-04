@@ -12,9 +12,9 @@ Computer Science Student | Aspiring Full Stack Developer
     <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,r" />
 </p>
 
-### Web Development
+### Web Development 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,react,nodejs,express,php,mysql" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mysql,spring,php" />
 </p>
 
 ### Tools 
