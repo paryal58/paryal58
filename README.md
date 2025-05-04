@@ -1,8 +1,8 @@
-Hi 👋 My name is Prasanga Aryal
-===============================
+Hello 👋 I am Prasanga Aryal
+==================================================================
 
-Computer Science Student
--------------------------------
+Computer Science Student | Aspiring Full Stack Developer
+------------------------------------------------------------------
 
 * 🌍  Lexington, Kentucky
 * ✉️  [prasangaaryal58@gmail.com](mailto:prasangaaryal58@gmail.com)
