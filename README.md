@@ -1,10 +1,9 @@
 Hello 👋 I am Prasanga Aryal
 ==================================================================
 
-Computer Science Student | Aspiring Full Stack Developer
+Computer Science Student | Developer At Heart
 ------------------------------------------------------------------
 
-* 🌍  Lexington, Kentucky
 * ✉️  [prasangaaryal58@gmail.com](mailto:prasangaaryal58@gmail.com)
 
 ### Programming Languages
@@ -12,9 +11,9 @@ Computer Science Student | Aspiring Full Stack Developer
     <img src="https://skillicons.dev/icons?i=python,java,js,c,cpp,r,php" />
 </p>
 
-### Web Development 
+### Libraries
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mysql,spring" />
+    <img src="https://skillicons.dev/icons?i=flask,react,nodejs,express,mysql,spring" />
 </p>
 
 ### Tools 
