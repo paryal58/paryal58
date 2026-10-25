@@ -1,7 +1,7 @@
-Hello 👋 I am Prasanga Aryal
+Hello, I am Prasanga Aryal
 ==================================================================
 
-Computer Science Student | Developer At Heart
+Computer Science Student | UT Austin
 ------------------------------------------------------------------
 
 * ✉️  [prasangaaryal58@gmail.com](mailto:prasangaaryal58@gmail.com)
